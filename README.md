@@ -4,6 +4,10 @@
 
 Search, filter and shuffle items
 
+## Demo
+
+[http://high-lettuce.surge.sh/](http://high-lettuce.surge.sh/)
+
 ## Build Setup
 
 ``` bash
